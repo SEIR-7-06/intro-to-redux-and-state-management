@@ -1,5 +1,4 @@
-# State Management and Intro to Redux
-
+# Intro to Redux and State Management
 ### Objectives
 
 *After this lesson, students will be able to:*
