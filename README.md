@@ -240,7 +240,7 @@ function addTodo(todos, newTodo){
   // Your code here
 }
 
-addTodo(todos, newTodo)
+console.log(addTodo(todos, newTodo))
 ```
 
 2. Create a pure function called `editUserObject` that will take 2 objects, one that represents a user and another that represents changes to that user object.  Make sure that the object you return is a brand new object.
@@ -275,7 +275,9 @@ function removeFruit(originalArray){
 console.log(removeFruit(fruitsAndVeggies))
 ```
 
-### Tonight's Homework (if your brain still exists): [Building A Super Simple Shopping Cart With React/Redux](https://git.generalassemb.ly/sf-wdi/react-redux-shopping-cart)
+### Bonus 
+
+[Building A Super Simple Shopping Cart With React/Redux](https://git.generalassemb.ly/sf-wdi/react-redux-shopping-cart)
 
 Try to work through this codealong that sets up a simple React and Redux application.  In here, you will be introduced to the `react` library and the `react-redux` library.  Pay attention to the components and methods that you import here and their relationship with the Redux pattern.  Don't copy paste the code here into your own React app... instead type out everything presented in the example and reflect on what is happening at each level.
 
