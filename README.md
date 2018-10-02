@@ -64,9 +64,9 @@ Through using Redux, we will be able to take all of the state out of our individ
 
 ![](../images/with_and_without_redux.png)
 
-### You Do - 10 min
+### But you don't have to take my word for it!
 
-Read [this Medium post](https://medium.com/dailyjs/when-do-i-know-im-ready-for-redux-f34da253c85f) written by a developer who build a React app for the Australian Broadcast Corporation.  It's a great real world example of how React becomes more and more difficult to handle as projects become more difficult.
+Read [this Medium post](https://medium.com/dailyjs/when-do-i-know-im-ready-for-redux-f34da253c85f) written by a developer who built a React app for the Australian Broadcast Corporation.  It's a great real world example of how React becomes more and more difficult to handle as projects become more difficult.
 
 - After working on the app for a month, what are some of the pain points the team found by just using React by itself?
 - In your own words, describe how Redux handles data differently than React on its own.
